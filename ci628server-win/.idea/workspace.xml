@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d47badd-2590-4293-9451-7000d29a294e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21HREDjwT9sRIhJM6eR78LRR7pJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d47badd-2590-4293-9451-7000d29a294e" name="Default Changelist" comment="" />
+      <created>1637595912341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637595912341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="986" y="503" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637595958709">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="986" y="503" key="#com.intellij.fileTypes.FileTypeChooser/3840.609.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1637595958709" />
+    <state x="4580" y="957" width="685" height="565" key="FileChooserDialogImpl" timestamp="1641222438091">
+      <screen x="3840" y="720" width="1920" height="1020" />
+    </state>
+    <state x="4580" y="957" width="685" height="565" key="FileChooserDialogImpl/3840.720.1920.1020/0.0.2560.1400@3840.720.1920.1020" timestamp="1641222438091" />
+    <state x="4465" y="944" key="NewModule_or_Project.wizard" timestamp="1641222440138">
+      <screen x="3840" y="720" width="1920" height="1020" />
+    </state>
+    <state x="4465" y="944" key="NewModule_or_Project.wizard/3840.720.1920.1020/0.0.2560.1400@3840.720.1920.1020" timestamp="1641222440138" />
+  </component>
+</project>
